@@ -1,1 +1,1 @@
-javascript:(function(){function s(n,v){let e=document.querySelector(`select[name="${n}"]`);if(e){for(let o of e.options)if(o.value.toLowerCase()===v.toLowerCase()){e.value=o.value;e.dispatchEvent(new Event('change',{bubbles:true}));break;}}}s('formattable:0:j_id_jsp_1557668030_17','Consumer');s('formattable:1:j_id_jsp_1557668030_17','No');s('formattable:2:j_id_jsp_1557668030_17','No');alert('Dropdown selections completed!');})();
+form:dtable:4:j_id_jsp_1557668030_17
