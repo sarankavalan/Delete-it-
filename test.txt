@@ -1,0 +1,1 @@
+javascript:(function(){var d=document.createElement('div');d.innerHTML='TEST POPUP';d.style.cssText='position:fixed;top:0;left:0;background:red;color:white;z-index:9999;padding:20px;';document.body.appendChild(d);})();
